@@ -11,7 +11,7 @@
     },
     {
       "source": "/api/:apiurl*",
-      "destination": "https://musicapi.139248.xyz/:apiurl*"
+      "destination": "https://musicapi.qizou.dpdns.org/:apiurl*"
     }
   ],
   "outputDirectory": "out/renderer"
